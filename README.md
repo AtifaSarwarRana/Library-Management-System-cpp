@@ -1,4 +1,4 @@
-# Library-Management-System-cpp
+# Library-Management-System (c++)
 A console-based Library Management System developed in C++ using Object-Oriented Programming (OOP) and File Handling concepts.
 
 ## Features
